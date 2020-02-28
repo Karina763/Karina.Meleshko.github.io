@@ -1,7 +1,7 @@
 div{border:solid 3px pink;
 margin:5px;
 background-colour: blue; width: 100%}
-#b1{width:50%;
+#b1{width:100%;
 background-color: yellow}
 #b2{background-color: yellow;}
 #b3{background-color:pink;
@@ -13,6 +13,7 @@ width:30%;
 float: left;
 border:solid 3px pink;
 margin: 3px;}
-#b5{width:30%;
+#b5{width:25%;
  float:left;background-color:yellow}
+#b6{clear: both; background-color:pink;}
 
