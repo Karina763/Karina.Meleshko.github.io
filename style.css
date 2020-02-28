@@ -1,7 +1,7 @@
 div{border:solid 3px pink;
 margin:5px;
-background-colour: blue}
-#b1{width:100%;
+background-colour: blue; width: 100%}
+#b1{width:50%;
 background-color: yellow}
 #b2{background-color: yellow;}
 #b3{background-color:pink;
