@@ -12,7 +12,14 @@ float: left;}
 width:30%;
 float: left;
 border:solid 3px pink;
-margin: 3px;}
+margin: 3px;
+text:
+font-variant:small-caps;
+font-style:oblique;
+font-weight: normal;
+font-family:monospace;
+font-stretch: semi-condensed;
+font-size:26pt}
 #b5{width:25%;
  float:left;background-color:yellow}
 #b6{clear: both; background-color:pink; width:85%}
