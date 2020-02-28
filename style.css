@@ -4,15 +4,15 @@ background-colour: blue}
 #b1{width:100%;
 background-color: yellow}
 #b2{background-color: blue;}
-#b3{background-color:grey;
+#b3{background-color:green;
 width:25%;
 margin: 5px;
 float: left;}
-#b4{background-color:grey;
+#b4{background-color:green;
 width:30%;
 float: left;
 border:solid 0px grey;
 margin: 5px;}
-#b6{width:45%;
- float:left;}
+#b5{width:45%;
+ float:left;background-color:yellow}
 
