@@ -3,16 +3,16 @@ margin:5px;
 background-colour: blue}
 #b1{width:100%;
 background-color: yellow}
-#b2{background-color: blue;}
-#b3{background-color:green;
+#b2{background-color: yellow;}
+#b3{background-color:pink;
 width:25%;
 margin: 5px;
 float: left;}
-#b4{background-color:green;
+#b4{background-color:pink;
 width:30%;
 float: left;
 border:solid 3px pink;
-margin: 5px;}
-#b5{width:45%;
+margin: 3px;}
+#b5{width:30%;
  float:left;background-color:yellow}
 
